@@ -18,7 +18,8 @@ Once the plugin is activated, it will automatically add a data layer to the head
 - post_published: the date that the current post was published in the format "YYYY-MM-DD"
 - user_login_status: a boolean indicating whether the current user is logged in
 - user_id: the ID of the current user (if they are logged in)
-- You can then use this information in your analytics or marketing tags to track information about the pages and users on your site.
+
+You can then use this information in a tag manager tool for your analytics or marketing tags to track information about the pages and users on your site.
 
 License
 My Data Layer is licensed under the GPL-3.0. You can find a copy of the license at https://www.gnu.org/licenses/gpl-3.0.en.html.
