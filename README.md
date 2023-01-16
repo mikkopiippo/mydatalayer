@@ -3,8 +3,7 @@
 My Data Layer is a WordPress plugin that adds a data layer to the head of each page. It is designed to make it easy to track information about the current page and user in a format that can be easily consumed by Google Tag Manager or other analytics tools.
 
 ## Installation
-Upload the plugin files to the /wp-content/plugins/my-data-layer directory, or install the plugin through the WordPress plugins screen directly.
-Activate the plugin through the 'Plugins' screen in WordPress
+Upload the plugin files to the /wp-content/plugins/my-data-layer directory.
 
 ## Usage
 Once the plugin is activated, it will automatically add a data layer to the head of each page on your site. The data layer will contain the following information:
