@@ -1,6 +1,6 @@
 # My dataLayer
 
-My Data Layer is a WordPress plugin that adds a data layer to the head of each page. It is designed to make it easy to track information about the current page and user in a format that can be easily consumed by Google Tag Manager or other analytics tools.
+My Data Layer is a WordPress plugin that adds a data layer to the head of each page. It is designed to make it easy to track information about the current page and user in a format that can be easily consumed by [Google Tag Manager](https://tagmanager.google.com/)  or other analytics tools like e.g. [Piwik PRO](https://piwik.pro/tag-manager/).
 
 ## Installation
 Upload the plugin files to the /wp-content/plugins/my-data-layer directory.
